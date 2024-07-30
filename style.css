@@ -9,12 +9,12 @@ body,html{
 }
 
 .card{
-    height: 60vh;
+    height: 70vh;
     width: 50vh;
     background: #828282;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 60%;
     transform: translate(-50% ,-50%);
     border-radius: 20px;
     display: flex;
